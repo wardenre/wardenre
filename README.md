@@ -4,7 +4,8 @@
 💻 I write in many languages ​​and work in popular IDEs.<br>
 🧠 I have studied almost C++, to be honest, if it weren't for JS, I would have died after this<br>
 ⚙️ I do optimization very often, and Minecraft on the mappet mod from McHourse, well, or I write all sorts of crap in C++, Java and javascript<br>
-🎮 I am currently making my own game in Minecraft Bedrock called Rake, inspired by the mode in Roblox
+🎮 I am currently making my own game in Minecraft Bedrock called Rake, inspired by the place 
+from Roblox
 </p>
 
 ---
